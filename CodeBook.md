@@ -200,3 +200,4 @@ subject number 1.
 The "run_analysis.r" script performs the analysis on the data. 
 The data can be downloaded following the instructions in the Readme.md.
 The final data set is saved in a file named "tidy_final.csv"
+The data is also saved in txt format as "tidy_final.txt".
